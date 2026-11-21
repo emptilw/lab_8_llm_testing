@@ -1,0 +1,1 @@
+﻿BookHub is an online reading platform launched in 2022 for independent authors and book clubs. Registered readers can organize personal shelves, write reviews, and export reading lists in CSV format. The free tier allows storing up to 200 books, while the Pro subscription removes all storage limits.
